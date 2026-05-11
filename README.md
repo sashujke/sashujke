@@ -1,15 +1,131 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sashujke&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sashujke&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sashujke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Aliaksandr Siarou
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sashujke&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Software & System Student | Networking • Automation • Backend • Infrastructure
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=ITIS+Informatica+Student;Future+Computer+Engineering+Student;Networking+%26+Infrastructure+Enthusiast;Backend+Developer;Automation+%26+System+Management" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sashujke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+```txt
+class Aliaksandr {
+    role        = "Software & System Student";
+    school      = "ITIS Cerebotani - Informatica";
+    focus       = ["Networking", "Automation", "Backend", "Infrastructure"];
+    languages   = ["C++", "C#", "Java", "JavaScript", "TypeScript", "PHP", "Python"];
+    interests   = ["LAN/WLAN", "Server Management", "System Design"];
+    university  = "Computer Engineering (planned)";
+}
+```
+
+- Currently attending the 5th year of ITIS Informatica
+- PCTO experience at E3 Elettronica
+- Passionate about networking infrastructures and backend systems
+- Interested in automation, servers and enterprise networks
+- TOLC-I passed for university admission without additional requirements
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B)
+![PHP](https://img.shields.io/badge/PHP-3949AB?style=for-the-badge&logo=php&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+![NodeJS](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MariaDB](https://img.shields.io/badge/MariaDB-111827?style=for-the-badge&logo=mariadb&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
+
+---
+
+# Experience
+
+## E3 Elettronica — PCTO
+
+### Networking & Infrastructure
+- LAN/WLAN configuration
+- VLAN management
+- WiFi coverage planning
+- Access Point deployment
+- Network troubleshooting
+
+### Development & Automation
+- Python & Jython scripting
+- Workflow automation
+- Backend logic
+- SQL database management
+- Git/GitHub workflow
+
+### Tools & Technologies
+```txt
+VS Code • GitHub • Site Engine • Workflow • SSH • XAMPP
+WordPress • SQL • PowerShell • TCP/IP • Routing • VLAN
+```
+
+---
+
+# Current Goals
+
+```txt
+[✓] PCTO Experience
+[✓] TOLC-I Passed
+[•] ITIS Informatica
+[ ] Computer Engineering @ UNIBS
+[ ] Master's Degree
+```
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=sashujke&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=sashujke&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sashujke&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+# Quote
+
+```txt
+"The future belongs to those who continue learning."
+```
+
+---
+
+<div align="center">
+
+### Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sashujke)
+
+<img src="https://visitcount.itsvg.in/api?id=sashujke&icon=6&color=12" />
+
+</div>
