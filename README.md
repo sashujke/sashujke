@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aliaksandr Siarou
+# Sasha Siarou
 
 ### Software & System Student
 
