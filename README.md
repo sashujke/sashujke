@@ -11,7 +11,7 @@
 ---
 
 ```cpp
-class Aliaksandr {
+class Sasha {
 public:
     string school = "ITIS Informatica";
     string focus = "Networking & Backend";
