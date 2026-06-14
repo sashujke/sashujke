@@ -10,12 +10,3 @@
 
 ---
 
-```cpp
-class Sasha {
-public:
-    string school = "ITIS Informatica";
-    string focus = "Networking & Backend";
-    string future = "Computer Engineering";
-};
-```
-
